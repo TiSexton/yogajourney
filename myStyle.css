@@ -1,0 +1,119 @@
+body {
+    width: 100%;
+    height: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: auto;
+	font-family: Arial, Helvetica, sans-serif;
+    background-color: #a44bfc;
+} 
+
+.nav navbar-nav {
+    background-color: #a44bfc;
+    
+}
+
+.jumbotron {
+  background-image: url(img/bckg.jpg);
+  background-color: #a44bfc;
+  height: 400px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  text-align: center;
+}
+
+.jumbotron .container {
+  position: relative;
+}
+
+.jumbotron h1 {
+  position: relative;
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
+
+.jumbotron a {
+
+}
+
+.main {
+  font-family: 'Shift', sans-serif;
+  font-weight: 800;
+  
+}
+
+.maine h3 {
+  font-size: 18px;
+  font-weight: 800;
+}
+
+.maine p {
+
+}
+.main a {
+  color: #00b0ff;
+}
+
+.footer {
+  color: white;
+  width: 100%;
+  height: 70px;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  margin-top: 100px;
+  background-color: #000000;
+}
+
+
+.parent {
+    max-width: 100%;
+    min-width: 300px;
+    margin: 0 auto;
+    background-color: none;
+    display: flex;
+    align-items: flex-start;
+
+}
+
+.box {
+    border: 1px solid #a44bfc;
+    padding: 5px;
+}
+
+.one {
+    flex: 1;
+}
+
+.two {
+    flex: 1;
+    margin-left: 10px;
+}
+
+.three {
+    flex: 1;
+    margin-left: 10px;
+}
+
+.four {
+    flex: 1;
+    margin-left: 10px;
+}
+
+.five {
+    flex: 1;
+    margin-left: 10px;
+}
+
+
+
+
+
